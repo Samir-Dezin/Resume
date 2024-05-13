@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img#me {
+  margin-top: 50px;
+  width: 150px;
+  border-radius: 50%;
+}
+hr {
+  width: 200px;
+  margin: 20px 50px;
+}
+#left {
+  width: 300px;
+  height: 700px;
+  background-color: #143147;
+  color: #fff;
+  text-align: center;
+  position: fixed;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+h1 {
+  font-size: 30px;
+}
+li {
+  line-height: 40px;
+  margin-left: 30px;
+}
+ul {
+  text-align: justify;
+  text-indent: 10px;
+  margin-top: 5%;
+  margin-left: 14%;
+}
+li#phone {
+  list-style-image: url("images/phone.png");
+}
+li#mail {
+  list-style-image: url("images/mail.png");
+}
+li#linkedin {
+  list-style-image: url("images/linkedin.png");
+}
+#right {
+  float: left;
+  position: relative;
+  margin-left: 350px;
+  margin-top: 4%;
+}
+#objective {
+  text-align: justify;
+}
+p {
+  width: 300px;
+}
+.rhead {
+  color: #143147;
+  font-weight: 900;
+  letter-spacing: 2px;
+  margin-bottom: 3%;
+}
+#end {
+  margin-left: 800px;
+  padding-top: 4%;
+}
+input[type="range"] {
+  accent-color: #5a8cb142;
+}
+#skills {
+  line-height: 20px;
+}
